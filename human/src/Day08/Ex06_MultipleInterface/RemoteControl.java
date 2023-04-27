@@ -1,4 +1,4 @@
-package Day08.Ex03_Interface;
+package Day08.Ex06_MultipleInterface;
 
 public interface RemoteControl {
 	
@@ -12,6 +12,7 @@ public interface RemoteControl {
 	void turnOn();
 	void turnOff();
 	void setVolume(int volume);
+	void setChannel(int channel);
 	
 	// 디폴트 메소드
 	// : 구현 객체에 할당될 인스턴스 메소드
