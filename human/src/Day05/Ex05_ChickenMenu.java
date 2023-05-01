@@ -120,5 +120,3 @@ public class Ex05_ChickenMenu {
 		sc.close();
 	}
 	
-
-}

@@ -47,10 +47,12 @@ public class Pikachu {
 			return "(사용불가)";
 		}
 
+
 		@Override
 		public String toString() {
 			return "Pikachu [energy=" + energy + ", type=" + type + ", level=" + level + "]";
 		}
 		
+
 
 }

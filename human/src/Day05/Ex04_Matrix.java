@@ -83,6 +83,3 @@ public class Ex04_Matrix {
 		sc.close();
 	}
 	
-	
-
-}

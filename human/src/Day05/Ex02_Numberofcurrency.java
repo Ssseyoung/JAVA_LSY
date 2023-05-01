@@ -94,4 +94,3 @@ public class Ex02_Numberofcurrency {
 		}
 		sc.close();
 	}
-}

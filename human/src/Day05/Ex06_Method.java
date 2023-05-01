@@ -46,5 +46,4 @@ public class Ex06_Method {
 		sc.close();
 		
 	}
-
 }

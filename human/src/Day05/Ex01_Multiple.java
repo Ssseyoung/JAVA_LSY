@@ -13,6 +13,9 @@ public class Ex01_Multiple {
 	int N = sc.nextInt();
 	
 	if( N % 3 == 0 ) {
+	int input = sc.nextInt();
+	
+	if( input % 3 == 0 ) {
 		System.out.println("3의 배수입니다.");
 	}
 	else {
