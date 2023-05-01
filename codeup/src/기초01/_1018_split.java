@@ -13,3 +13,5 @@ public class _1018_split {
         sc.close();
     }
 }
+
+// String [] split ()   ->  문자열 자르기

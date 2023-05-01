@@ -2,7 +2,7 @@ package 기초01;
 
 import java.util.Scanner;
 
-public class _1021 {
+public class _1021_문자출력 {
 	
 	public static void main(String[] args) {
 		

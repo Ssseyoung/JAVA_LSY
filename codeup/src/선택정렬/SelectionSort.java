@@ -21,7 +21,7 @@ public class SelectionSort {
 		for (int i = 0; i < n; i++) {	// n열의 배열 마다 각각의 입력 값을 지정한다.
 			arr[i] = sc.nextInt();
 		}
-		Sort(n, arr); 					// 버블 정렬 메소드 호출
+		Sort(n, arr); 					// 선택 정렬 메소드 호출
 		print(arr); 					// 배열 출력 메소드 호출
 		sc.close();
 	}
