@@ -1,14 +1,15 @@
-package 기초02;
+package 기초01;
 
 import java.util.Scanner;
 
-public class _1011_기본입출력2 {
+public class _1013_띄어쓰기 {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		String a = sc.next();
+		int a = sc.nextInt();
+		int b = sc.nextInt();
 		
-		System.out.print(a);
+		System.out.print(a+" "+b);
 		
 		sc.close();
 	}

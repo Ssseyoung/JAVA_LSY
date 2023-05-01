@@ -10,7 +10,7 @@ public class Ex11_Long {
 		long ln1 = 1000;			// (long) = (int)
 		long ln2 = 2100000000;		// (long) = (int)
 		// long 타입 리터럴 : 숫자L
-		long ln3 = 2200000000L;
+		long ln3 = 4300000000L;
 		
 		int max = Integer.MAX_VALUE;	// int 형의 최대값 (21억...)
 		int min = Integer.MIN_VALUE;	// int 형의 최소값 (-21억...)

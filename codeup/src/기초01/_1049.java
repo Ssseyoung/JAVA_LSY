@@ -1,4 +1,4 @@
-package 기초02;
+package 기초01;
 
 import java.util.Scanner;
 

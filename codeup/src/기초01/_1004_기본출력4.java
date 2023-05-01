@@ -1,4 +1,4 @@
-package 기초02;
+package 기초01;
 
 public class _1004_기본출력4 {
 	

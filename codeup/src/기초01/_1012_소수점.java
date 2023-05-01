@@ -1,16 +1,16 @@
-package 기초02;
+package 기초01;
 
 import java.util.Scanner;
 
-public class _1015_소수점2 {
+public class _1012_소수점 {
 	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		float f = sc.nextFloat();
+		Double a = sc.nextDouble();
 		
-		System.out.printf("%.2f", f);
+		System.out.printf("%.6f",a);
 		
 		sc.close();
-
 	}
+
 }
