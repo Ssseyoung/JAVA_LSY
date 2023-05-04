@@ -7,7 +7,7 @@ public class Ex03_LogicalOperator {
 	
 	// 논리 연산자
 	// AND(&&)
-	// A AND B	: A와 B 둘 다 true 일 때, 결과가 false
+	// A AND B	: A와 B 둘 다 true 일 때, 결과가 true
 	// A	B	결과
 	// ------------
 	// F	F	F
@@ -57,7 +57,7 @@ public class Ex03_LogicalOperator {
 	System.out.println(value2);		// ???
 	
 	
-	// 비드연산자의 경우는 쇼트 서킷이 적용되지 않는다.
+	// 비트연산자의 경우는 쇼트 서킷이 적용되지 않는다.
 	int value3 = 3;
 	System.out.println(false & ++value3 > 6);
 	System.out.println(value3); 

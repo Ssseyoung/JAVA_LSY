@@ -28,9 +28,9 @@ public class Ex02_Max {
 		for (int i = 0; i < N; i++) {
 			arr[i] = sc.nextInt();
 		}
-		int max = Integer.MIN_VALUE;
+		int max = Integer.MIN_VALUE;			 // int타입의 최소값과 비교
 		for (int i = 0; i < arr.length; i++) {
-			if( max < arr[i])
+			if( max < arr[i])					 // 입력값이 최소값보다 크면 입력값으로 바뀜
 				max = arr[i];
 		}
 		System.out.println("최대값 : " + max);

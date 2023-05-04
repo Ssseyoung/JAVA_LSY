@@ -1,7 +1,5 @@
 package Day03;
 
-import java.util.Iterator;
-
 // enum(열거체) 정의
 enum Rainbow { RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET }
 

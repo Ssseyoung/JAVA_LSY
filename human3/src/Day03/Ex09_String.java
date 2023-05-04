@@ -14,6 +14,7 @@ public class Ex09_String {
 		System.out.println(a == c);
 		System.out.println(a == d);
 		System.out.println(a.equals(d));
+		System.out.println();
 		
 		System.out.println(e == f);
 		System.out.println(e.equals(f));
