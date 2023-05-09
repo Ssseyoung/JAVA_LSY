@@ -13,7 +13,7 @@ public class StudentEx {
 		// Student2 객체 생성
 		Student student2 = new Student("김승현", 20, "20230002", "전자공학");
 		
-		int[] score = {10,20,30,40,50};		// 학생1의 성적
+		int[] score = {10,20,30,40,50};			// 학생1의 성적
 		int[] score2 = {100,100,100,90,95};		// 학생2의 성적
 		
 		System.out.println("#### 학생1 ####");
