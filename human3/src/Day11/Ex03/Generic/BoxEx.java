@@ -8,6 +8,7 @@ public class BoxEx {
 		//   클래스와 메소드를 작성하는 기법
 		// - 타입매개변수 : 모든 클래스타입을 일반화한 변수
 		// - 객체를 생성할 때, 타입을 결정한다
+		// Ex) 사과 형틀 - 금사과, 은사과 
 		Box<String> box1 = new Box<String>();
 		box1.setT("쿠팡택배");
 		String boxName = box1.getT();
