@@ -12,10 +12,6 @@ public class Ex03_Language {
 		int count[] = new int[6];
 		for (int i = 0; i < count.length; i++) {
 			count[i] = i+1;
-		}
-		
-		// 출력
-		for (int i = 0; i < count.length; i++) {
 			System.out.print(count[i] + " ");
 		}
 		System.out.println();
